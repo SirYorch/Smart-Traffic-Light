@@ -1,3 +1,7 @@
 [submodule "frontend"]
     path = frontend
     url = https://github.com/michfranko/FrontEnd_IA
+[submodule "SImulacionCar"]
+    path = SImulacionCar
+    url = https://github.com/Whiteherobot/SImulacionCar
+
